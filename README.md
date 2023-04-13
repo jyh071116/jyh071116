@@ -19,6 +19,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyh071116&layout=compact">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=jyh071116&show_icons=true">
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyh071116)](https://solved.ac/jyh071116)
+  <img src="[(http://mazassumnida.wtf/api/v2/generate_badge?boj=jyh071116)](https://solved.ac/jyh071116)">
 </div>
