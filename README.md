@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**jyh071116/jyh071116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Young%20Hyun&fontSize=90)
+<br>
+<br>
+<br>
+<center>
+MY TECH
+![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![html logo](https://img.shields.io/badge/HTML5-pink?logo=html5)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyh071116)](https://solved.ac/jyh071116)
+![깃허브 프로필 상태](https://github-readme-stats.vercel.app/api?username=jyh071116&show_icons=true&theme=transparent)
+</center>
