@@ -5,7 +5,7 @@
 <div align="center">
   <h1>부산소프트웨어마이스터고 재학 중</h1>
   <h2>📖MY TECH📖</h2>
-  <p>🌐Language</p>
+  <h4>🌐Language</h4>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
   
   <br><br>
-  <p>🖧SNS & Portfolio🖧</p>
+  <h4>🖧SNS & Portfolio🖧</h4>
   <a href="https://www.instagram.com/jyh071116/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   </a>
