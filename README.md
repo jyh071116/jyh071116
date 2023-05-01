@@ -18,11 +18,10 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   </a>
   <br><br><br>
-  <figure class="half">
+  <center class="half">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyh071116&layout=compact">
   <a herf="https://solved.ac/profile/jyh071116/", target="_blank">
 	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=jyh071116>
   </a>
-  figure>
 
 </div>
