@@ -18,7 +18,7 @@
   	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://velog.io/@jyh071116">
-  	<img src="https://img.shields.io/badge/Velog-#20C997?style=flat&logo=Velog&logoColor=white/>
+  	<img src="https://img.shields.io/badge/Velog-#20C997?style=flat&logo=Velog&logoColor=white"/>
   <br><br><br>
   <center class="half">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyh071116&layout=compact">
