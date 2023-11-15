@@ -6,4 +6,7 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=INSERT_WEB&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=INSERT_WEB">
 </picture>](https://github.com/Team-Insert/INSERT_WEB)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=SWDC-Team-GG&repo=GG-frontend&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=SWDC-Team-GG&repo=GG-frontend">
+</picture>](https://github.com/SWDC-Team-GG/GG-frontend)
 </div>
